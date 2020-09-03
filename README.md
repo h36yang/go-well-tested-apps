@@ -38,5 +38,5 @@ Practice materials for "Creating Well-Tested Applications in Go" course
   * Mocking Library implementing `sql/driver` as in-memory mockable database
 
 # Deep Dives
-1. [Creating and Running Tests](01_Creating_and_Running_Tests.md)
+1. [Creating and Running Tests](01_Creating_And_Running_Tests.md)
 2. [Benchmarking and Profiling](02_Benchmarking_And_Profiling.md)
