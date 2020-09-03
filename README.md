@@ -9,9 +9,9 @@ Practice materials for "Creating Well-Tested Applications in Go" course
 * Little support for assertions (intentionally)
 
 ## Test Types in Go
-* Test - unit, integration, e2e tests
-* Benchmark - performance profiling
-* Example - documentation
+* **Test** - unit, integration, e2e tests
+* **Benchmark** - performance profiling
+* **Example** - documentation
 
 ## Testing Related Packages in Go Standard Library
 * `testing` - https://golang.org/pkg/testing
@@ -24,17 +24,17 @@ Practice materials for "Creating Well-Tested Applications in Go" course
   * Allows to simulate HTTP requests, record HTTP responses, and set up test servers
 
 ## Useful Community Projects
-* Testify - https://github.com/stretchr/testify
+* **Testify** - https://github.com/stretchr/testify
   * Provides the complete assertion experience
-* Ginkgo - https://github.com/onsi/ginkgo
+* **Ginkgo** - https://github.com/onsi/ginkgo
   * Behaviour Driven Development (BDD) Testing Framework
-* GoConvey - https://github.com/smartystreets/goconvey
+* **GoConvey** - https://github.com/smartystreets/goconvey
   * Generates results in browser based format
-* httpexpect - https://github.com/gavv/httpexpect
+* **httpexpect** - https://github.com/gavv/httpexpect
   * Designed to simplify e2e web service testing
-* GoMock - https://github.com/golang/mock
+* **GoMock** - https://github.com/golang/mock
   * Mocking Framework
-* go-sqlmock - https://github.com/DATA-DOG/go-sqlmock
+* **go-sqlmock** - https://github.com/DATA-DOG/go-sqlmock
   * Mocking Library implementing `sql/driver` as in-memory mockable database
 
 # Deep Dives
